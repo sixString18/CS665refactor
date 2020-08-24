@@ -1,8 +1,6 @@
 
 /* Refactor the following code and apply one design pattern to it.
 
-Or in the following:*/
-
 /**I have refactored the code by removing the duplicate code and elevating all 
  * but the doFinalCal method to the parent class.  In essence, the duplicate code is "extracted"
  * and pulled-up into a parent class.  In essense, this is a template.
